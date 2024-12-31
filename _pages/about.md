@@ -1,13 +1,40 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+<!-- general introduction - phd project focuses - who i am
+1. phd student at ucla in bionics lab prof. rosen
+2. in the field of dental robotics specializing in optimziation, path planning, and control
+3. -->
+I am a PhD candidate in Mechanical and Aeropsace Engieering at University of California, Los Angeles working with [Prof. Jacob Rosen](http://bionics.seas.ucla.edu/people/rosen/jacob_rosen.html) in the [Bionics Lab](http://bionics.seas.ucla.edu/index.html). My research interests lie in the robotic automation of dental surgery, including kinematics optimzation, path planning, reinforcement learning, and human-robot-interaction control.
+
+Before joining the Bionics Lab, I received B.S. in Mechanical and Aerospace Engineering from Seoul National University, advised by [Prof. Dongjun Lee](https://www.inrol.snu.ac.kr/dongjun-lee). Afterward, I worked at LG Electronics for about two years, developing collaborative robot manipulators.
+
+Education
+======
+* Ph.D in Mechanical and Aerospace Engineering, University of California, Los Angeles, 2026 (expected)
+* B.S. in Mechanical and Aerospace Engineering, Seoul National University, 2020
+
+Work experience
+======
+* June 2024 - Sep 2024: Research Intern at Perceptive Technology
+  * Responsibilities: human-robot-interaction control, 3D medical image segmentation
+  * Skills: C++, Python, MONAI
+
+* Mar 2023 - Sep 2023: Research Intern at Perceptive Technology
+  * Responsibilities: kinematics calibration, tool center point calibration, robot simulation
+  * Skills: Python, MoveIt2, ROS2
+
+* Jan 2020 - Aug 2021: Associate Researcher at LG Electronics
+  * Responsibilities: design of collaborative robot manipulator, hand-eye-calibration
+  * Skills: Solidworks, AutoCAD, Python
+
+<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
 ======
@@ -46,4 +73,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
